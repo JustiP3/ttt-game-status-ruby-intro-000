@@ -46,7 +46,7 @@ end
 
 def winner(board)
 array = won?(board)
-if array != nil
+if array != false
   x = array[0]
 end
 end
