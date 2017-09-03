@@ -49,4 +49,5 @@ array = won?(board)
 if array != false
   x = array[0]
 end
+x 
 end
