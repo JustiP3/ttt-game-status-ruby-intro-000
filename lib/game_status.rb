@@ -50,4 +50,3 @@ if array != nil
   x = array[0]
 end
 end
-
