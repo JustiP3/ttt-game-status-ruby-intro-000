@@ -50,5 +50,5 @@ x = nil
 if array != false
   x = board[array[0]]
 end
-x
+
 end
